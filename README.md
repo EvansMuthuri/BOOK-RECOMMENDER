@@ -36,8 +36,8 @@ Before running this application, make sure you have:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/book-recommender.git
-cd book-recommender
+git clone https://github.com/EvansMuthuri/BOOK-RECOMMENDER.git
+cd BOOK-RECOMMENDER
 ```
 
 2. Install required dependencies:
@@ -54,7 +54,7 @@ GOOGLE_API_KEY=your_api_key_here
 
 1. Start the Streamlit application:
 ```bash
-streamlit run book_recommender.py
+streamlit run app.py
 ```
 
 2. Open your web browser and navigate to the provided local URL (typically http://localhost:8501)
@@ -69,9 +69,9 @@ streamlit run book_recommender.py
 ## Project Structure 📁
 
 ```
-book-recommender/
+BOOK-RECOMMENDER/
 │
-├── book_recommender.py    # Main application file
+├── app.py    # Main application file
 ├── requirements.txt       # Project dependencies
 ├── .env                  # Environment variables (create this)
 └── README.md             # Project documentation
@@ -101,10 +101,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments 🙏
 
