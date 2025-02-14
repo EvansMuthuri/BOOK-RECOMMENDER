@@ -79,12 +79,14 @@ BOOK-RECOMMENDER/
 
 ## Dependencies 📦
 
-Create a `requirements.txt` file with these dependencies:
+Install `requirements.txt` file with these dependencies:
 ```
 streamlit
 python-dotenv
 google-generativeai
 ```
+
+(Just run {pip install -r requirements.txt})
 
 ## Environment Variables 🔐
 
@@ -120,10 +122,6 @@ If you encounter any issues or have questions, please open an issue in the GitHu
 - Include book cover images
 - Add user ratings and reviews
 - Implement a book tracking system
-
----
-
-Made with ❤️ for book lovers everywhere
 
 
 <!-- ![Screenshot](IMAGES/Image1.png) 
