@@ -112,6 +112,6 @@ if st.button("Get Recommendations"):
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center'>
-    <p>Made with ❤️ for book lovers</p>
+    <p>Made with for book lovers</p>
 </div>
 """, unsafe_allow_html=True)
